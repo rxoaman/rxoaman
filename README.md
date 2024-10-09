@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rxoaman
+- 👀 I’m interested in mostly coding and solving problems gaming a little
+- 🌱 I’m currently learning HTML-CSS and C.
+- 📫 How to reach me rxo.aman@gmail.com
+- ⚡ Fun fact: I used to compete in rifle shooting back in the days.
